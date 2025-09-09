@@ -1,0 +1,1 @@
+Problems will be added every week. Complete them in your github repo and provide a link to your repo with your name at: https://docs.google.com/spreadsheets/d/1YPzA-lrCZoaarFA82eE1ERt-x6jO4Tnxmk_k8Zo8dfk/edit?usp=sharing

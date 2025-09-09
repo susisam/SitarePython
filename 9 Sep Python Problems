@@ -1,0 +1,46 @@
+1.	Let’s say you are making n chocolate piles in a row. The first pile has n chocolates. The number of chocolates in each pile
+depends on the first pile. If the first pile has an even number of chocolates, then all piles must have an even number of chocolates. 
+Similarly, if the first pile has an odd number of chocolates, then all piles must have an odd number of chocolates. Each pile must 
+have more chocolates than the previous pile, but as few as possible. Write a Python program to print the number of chocolates in each pile.
+
+2.	Write a program to find a list of integers containing exactly five distinct values, such that no integer repeats consecutively. 
+Example:
+Input:
+[1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5]
+Output:
+True
+Input:
+[1, 2, 3, 5, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4,  5]
+Output:
+False
+Input:
+[1, 2, 3, 3, 1, 2, 3, 3, 1, 2, 3, 3, 1, 2, 3, 3, 4, 5]
+Output:
+False
+
+3.	Write a Python program to print the indexes of numbers in a given list that are below a given threshold. 
+Example:
+Input: 
+[0, 12, 45, 3, 4923, 322, 105, 29, 15, 39, 55], 100
+Output:
+[0, 1, 2, 3, 7, 8, 9, 10]
+Input:
+[0, 12, 4, 3, 49, 9, 1, 5, 3], 10
+Output:
+[0, 2, 3, 5, 6, 7, 8]
+
+4.	Write a Python program to check whether the given strings are palindromes or not. Return True otherwise False.
+Input:
+['palindrome', 'madamimadam', '', 'foo', 'eyes']
+Output:
+[False, True, True, False, False]
+
+5.	Write a Python program to find the length of a given list of non-empty strings. For example:
+Input:
+['cat', 'car', 'fear', 'center']
+Output:
+[3, 3, 4, 6]
+Input:
+['cat', 'dog', 'shatter', 'donut', 'at', 'todo', '']
+Output:
+[3, 3, 7, 5, 2, 4, 0]
